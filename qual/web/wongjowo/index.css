@@ -1,0 +1,14 @@
+.judul{
+    text-align: center;
+}
+form{
+    margin-left: 570px;
+}
+
+.submit-button{
+    margin-left: 50px;
+}
+
+input, button{
+    border-radius: 50px;
+}

@@ -1,0 +1,7 @@
+Andi ingin belanja di online shop.
+Setelah melakukan pemesanan dan membayar tagihannya, pesanan Andi tetap tidak terverifikasi.
+Beliau sudah mencoba menghubungi Customer Service namun tetap tidak mendapatkan jawaban yang pasti.
+Karena barang yang Andi beli tidak murah dan membutuhkan barang itu segera,
+Andi pun memutuskan untuk memaksa masuk ke dalam database sebagai admin dan men-verifikasi pesanan dia secara manual.
+Saat sampai di halaman admin-login, diketahui bahwa validasi login dilakukan client-side.
+Bantu Andi untuk memecahkan masalah tersebut dan Andi akan memberikan kamu flag.
