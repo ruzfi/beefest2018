@@ -1,0 +1,25 @@
+@-webkit-keyframes marquee {
+  0% {
+    background-position: 0;
+  }
+
+  100% {
+    background-position: +1190px;
+  }
+}
+
+body {
+	background-image: url("giphy-nyan-cat.gif");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: repeat-x;
+	-webkit-animation: marquee 4s infinite linear;
+}
+
+.btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
